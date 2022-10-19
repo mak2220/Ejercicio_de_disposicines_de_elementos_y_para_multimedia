@@ -1,5 +1,4 @@
 *{
-    text-align: center;
     padding: 0px;
     margin: 1%;
 }
@@ -10,8 +9,6 @@
     flex-wrap: wrap;
     gap: 35px;
     justify-content: center;
-    
-    
 }
 
 .imagenes{
