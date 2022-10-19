@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+    padding: 0px;
+    margin: 1%;
+}
+
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 35px;
+    justify-content: center;
+    
+    
+}
+
+.imagenes{
+    width: 300px;
+    height: 280px;
+}
